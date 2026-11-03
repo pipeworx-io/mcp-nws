@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nws",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "NWS MCP — US National Weather Service (no auth)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "nws",
     "gatewaySlug": "nws",
-    "sourceHash": "v1-43999f9006823767e83e1fb25607dfcdd88e60cc1c1819ce31c1d327e581c87e",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-4fd80c87060b0c300d7425e768ac5eff7c02057511f752ea44d7c03a3e27d19b",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
